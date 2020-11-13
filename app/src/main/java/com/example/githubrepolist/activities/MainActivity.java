@@ -1,6 +1,5 @@
-package com.example.githubrepolist;
+package com.example.githubrepolist.activities;
 
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.InputType;
@@ -12,6 +11,8 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
+import com.example.githubrepolist.R;
+import com.example.githubrepolist.fragments.RepoListActivityFragment;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 

@@ -1,4 +1,4 @@
-package com.example.githubrepolist;
+package com.example.githubrepolist.fragments;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -18,7 +18,11 @@ import androidx.loader.app.LoaderManager;
 import androidx.loader.content.CursorLoader;
 import androidx.loader.content.Loader;
 
+import com.example.githubrepolist.R;
+import com.example.githubrepolist.activities.RepoDetails;
+import com.example.githubrepolist.adapter.RepoCursorAdapter;
 import com.example.githubrepolist.data.RepoContract;
+import com.example.githubrepolist.fragments.RepoDetailsFragment;
 
 /**
  * List fragment.

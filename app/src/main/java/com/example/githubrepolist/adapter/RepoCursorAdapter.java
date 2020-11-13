@@ -1,4 +1,4 @@
-package com.example.githubrepolist;
+package com.example.githubrepolist.adapter;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -8,6 +8,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CursorAdapter;
 import android.widget.TextView;
+
+import com.example.githubrepolist.R;
+import com.example.githubrepolist.fragments.RepoListActivityFragment;
 
 public class RepoCursorAdapter extends CursorAdapter {
 

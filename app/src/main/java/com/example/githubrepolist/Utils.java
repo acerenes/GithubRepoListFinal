@@ -1,4 +1,4 @@
-package com.example.githubrepolist.utils;
+package com.example.githubrepolist;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

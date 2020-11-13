@@ -5,7 +5,7 @@ import android.content.Context;
 import android.net.Uri;
 import android.util.Log;
 
-import com.example.githubrepolist.remote.GitHubApi;
+import com.example.githubrepolist.api.GitHubApi;
 
 import org.json.JSONArray;
 import org.json.JSONException;

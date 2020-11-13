@@ -1,4 +1,4 @@
-package com.example.githubrepolist;
+package com.example.githubrepolist.fragments;
 
 import android.annotation.SuppressLint;
 import android.database.Cursor;
@@ -17,6 +17,7 @@ import androidx.loader.app.LoaderManager;
 import androidx.loader.content.CursorLoader;
 import androidx.loader.content.Loader;
 
+import com.example.githubrepolist.R;
 import com.example.githubrepolist.data.RepoContract;
 
 

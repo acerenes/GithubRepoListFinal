@@ -1,4 +1,4 @@
-package com.example.githubrepolist.remote;
+package com.example.githubrepolist.api;
 
 import android.util.Log;
 

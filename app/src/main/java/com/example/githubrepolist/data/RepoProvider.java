@@ -11,7 +11,7 @@ import android.util.Log;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.example.githubrepolist.utils.Utils;
+import com.example.githubrepolist.Utils;
 
 import org.json.JSONException;
 

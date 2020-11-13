@@ -1,10 +1,13 @@
-package com.example.githubrepolist;
+package com.example.githubrepolist.activities;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
+
+import com.example.githubrepolist.R;
+import com.example.githubrepolist.fragments.RepoListActivityFragment;
 
 
 public class RepoListActivity extends AppCompatActivity {
